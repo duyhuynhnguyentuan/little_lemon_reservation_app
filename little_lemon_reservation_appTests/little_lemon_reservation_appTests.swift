@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import little_lemon_reservation_app
+@testable import Little_Lemon
 
 final class little_lemon_reservation_appTests: XCTestCase {
 
